@@ -1,0 +1,11 @@
+{
+  "author": "Tom Cherukuri",
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censors bad words",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
